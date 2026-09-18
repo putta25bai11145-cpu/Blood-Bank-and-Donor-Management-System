@@ -40,19 +40,33 @@ java BloodBankAndDonorManagementSystem
 
 
 Follow these steps to test the main features of the system:
+
 Test Donor Addition (Option 1):
+
 Enter a unique Donor ID (e.g., 101).
+
 Enter Name, Age (must be 18–65), Gender, Blood Group (e.g., O+), Phone, and City.
+
 Verify that donors.txt updates with the new entry.
+
 Test Search Functions (Options 3 & 4):
+
 Search by the registered blood group (e.g., O+) or city to confirm the record appears.
+
 Test Blood Stock Management (Options 5 & 6):
+
 Select option 6 to view current default stock levels.
+
 Select option 5 to add 5 units to O+. Check your stock list again to make sure the unit counts went up. 
+
 Test Request Blood (Option 7):
+
 Request 2 units of O+ blood. Make sure the request was approved, then select option 6 to confirm that 2 units were deducted. 
+
 Try requesting a huge amount (e.g., 50 units) to verify stock shortage warnings.
+
 Test Data Persistence:
+
 Exit the program (Option 8) and restart it. View donors and stock to verify saved state.
 
 **OUTPUT:**
