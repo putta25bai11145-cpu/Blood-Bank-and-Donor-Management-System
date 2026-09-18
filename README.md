@@ -22,6 +22,7 @@ Make sure you have Java Development Kit (JDK) installed on your system. You can 
 java -version
 
 Installation & Execution
+
 Clone the repository:
 git clone https://github.com/putta25bai11145-cpu/Blood-Bank-and-Donor-Management-System.git
 cd blood-bank-management-system
@@ -36,6 +37,8 @@ java BloodBankAndDonorManagementSystem
 
 
 **Instructions for Testing**
+
+
 Follow these steps to test the main features of the system:
 Test Donor Addition (Option 1):
 Enter a unique Donor ID (e.g., 101).
