@@ -23,7 +23,7 @@ java -version
 
 Installation & Execution
 Clone the repository:
-git clone https://github.com/your-username/blood-bank-management-system.git
+git clone https://github.com/putta25bai11145-cpu/Blood-Bank-and-Donor-Management-System.git
 cd blood-bank-management-system
 
 
