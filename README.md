@@ -51,6 +51,7 @@ Request 2 units of O+ blood. Make sure the request was approved, then select opt
 Try requesting a huge amount (e.g., 50 units) to verify stock shortage warnings.
 Test Data Persistence:
 Exit the program (Option 8) and restart it. View donors and stock to verify saved state.
+
 **OUTPUT:**
 ====================================================
        BLOOD BANK AND DONOR MANAGEMENT SYSTEM
